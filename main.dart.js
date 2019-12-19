@@ -35575,7 +35575,7 @@ return new K.jz(null)}else{b.d
 return new K.jz(null)}}}
 K.jz.prototype={
 jo:function(a){var u=null,t=[N.bj]
-return H.b([M.dA(u,T.fc(H.b([L.cP("Thomas Claessens",A.by(u,u,C.i,u,u,u,u,u,u,u,u,40,u,C.au,u,u,!0,u,u,u,u,u,u)),new T.bV(C.dD,L.cP("Electronics-ICT student at AP University College in Antwerp.",A.by(u,u,C.i,u,u,u,u,u,u,u,u,16,u,u,u,u,!0,u,u,u,u,u,u)),u)],t),C.dv,C.aP),u,u,u,u,u,a),new T.bV(C.dD,new T.bV(C.iY,U.ny("assets/images/Dedicated.png",a),u),u)],t)},
+return H.b([M.dA(u,T.fc(H.b([L.cP("Thomas Claessens",A.by(u,u,C.i,u,u,u,u,u,u,u,u,40,u,C.au,u,u,!0,u,u,u,u,u,u)),new T.bV(C.dD,L.cP("Electronics-ICT student at AP University College in Antwerp.",A.by(u,u,C.i,u,u,u,u,u,u,u,u,16,u,u,u,u,!0,u,u,u,u,u,u)),u)],t),C.dv,C.aP),u,u,u,u,u,a),new T.bV(C.dD,new T.bV(C.iY,U.ny("assets/images/CrossPlatform.png",a),u),u)],t)},
 J:function(a){return new A.fs(new K.zs(this),null)}}
 K.zs.prototype={
 $2:function(a,b){var u=b.b,t=this.a
