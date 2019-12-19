@@ -35586,7 +35586,7 @@ C.f.O(1/0,b.c,b.d)
 return T.fc(t.jo(u),C.at,C.aP)}}}
 F.zT.prototype={
 jo:function(a){var u=null,t=[P.h],s=[N.bj]
-return H.b([new T.bV(C.dD,new T.bV(C.iY,U.ny("assets/images/PlanningPhase.PNG",a),u),u),M.dA(u,T.fc(H.b([L.cP("Knowledge",A.by(u,u,C.i,u,u,u,u,u,u,u,u,40,u,C.au,u,u,!0,u,u,u,u,u,u)),new T.bV(C.dD,T.fc(H.b([new B.hv(H.b(["assets/icons/FlutterIcon.png","assets/icons/AndroidIcon.png","assets/icons/AngularIcon.png"],t),80,u),new B.hv(H.b(["assets/icons/CssIcon.png","assets/icons/HTMLIcon.png","assets/icons/JavascriptIcon.png"],t),0,u),new B.hv(H.b(["assets/icons/DockerIcon.png","assets/icons/CSharpIcon.png","assets/icons/DotnetIcon.png"],t),80,u),new B.hv(H.b(["assets/icons/LinuxIcon.png","assets/icons/PythonIcon.png","assets/icons/TypescriptIcon.png"],t),0,u)],s),C.at,C.d7),u)],s),C.at,C.aP),u,u,u,u,u,a)],s)},
+return H.b([new T.bV(C.dD,new T.bV(C.iY,U.ny("assets/images/PlanningPhase.png",a),u),u),M.dA(u,T.fc(H.b([L.cP("Knowledge",A.by(u,u,C.i,u,u,u,u,u,u,u,u,40,u,C.au,u,u,!0,u,u,u,u,u,u)),new T.bV(C.dD,T.fc(H.b([new B.hv(H.b(["assets/icons/FlutterIcon.png","assets/icons/AndroidIcon.png","assets/icons/AngularIcon.png"],t),80,u),new B.hv(H.b(["assets/icons/CssIcon.png","assets/icons/HTMLIcon.png","assets/icons/JavascriptIcon.png"],t),0,u),new B.hv(H.b(["assets/icons/DockerIcon.png","assets/icons/CSharpIcon.png","assets/icons/DotnetIcon.png"],t),80,u),new B.hv(H.b(["assets/icons/LinuxIcon.png","assets/icons/PythonIcon.png","assets/icons/TypescriptIcon.png"],t),0,u)],s),C.at,C.d7),u)],s),C.at,C.aP),u,u,u,u,u,a)],s)},
 J:function(a){return new A.fs(new F.zU(this),null)}}
 F.zU.prototype={
 $2:function(a,b){var u=b.b,t=this.a
